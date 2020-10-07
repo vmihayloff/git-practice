@@ -1,0 +1,3 @@
+Name: Viktoria
+Age: 27
+Favourite color: Green
